@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FangSkillmarck
 - 👀 I’m interested in Python, C# javascript and React.
-- 🌱 I’m currently learning AI and java
+- 🌱 I’m currently learning AI, deep learning and java
 - 💞️ I’m looking to collaborate on AI and web development in Python
 - 📫 How to reach me ... fang.stalmarck@gmail.com
 
